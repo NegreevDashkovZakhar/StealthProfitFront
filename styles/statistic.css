@@ -1,0 +1,30 @@
+.statistic-block {
+    border: 2px solid #4472CA;
+    border-radius: 3px;
+    padding: 0 20px 0 20px;
+    max-width: 600px;
+}
+
+.statistic-block__title {
+    font-size: 24px;
+    margin: 10px 0 10px 0;
+    padding: 0 0 5px 0;
+    border-bottom: 1px solid #4472CA;
+}
+
+.statistic-block__graph-block {
+    margin-bottom: 20px;
+}
+
+.graph-block {
+    padding: 10px;
+    border: 1px solid #4472CA;
+}
+
+.graph-block__entry {
+    vertical-align: top;
+    margin-right: 10px;
+    display: inline-block;
+    width: 20px;
+    background-color: #000;
+}

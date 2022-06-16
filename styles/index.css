@@ -1,0 +1,12 @@
+.main {
+    padding: 20px;
+}
+
+.main__title {
+    font-size: 25px;
+    color: #031926;
+}
+
+.main__statistic-block {
+    margin-bottom: 20px;
+}

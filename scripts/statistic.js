@@ -47,7 +47,7 @@ function createChart(canvas, dates, values) {
 }
 
 function loadStatistic() {
-    let baseURL = 'http://localhost:8080';
+    let baseURL = 'http://188.68.222.42:1';
     let fetchURL = `${baseURL}/statistic`;
     fetch(fetchURL).then(response => {
         response.json().then(json => {
